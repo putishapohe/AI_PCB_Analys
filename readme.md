@@ -6,8 +6,6 @@
 
 **Contour Analyzer** is a lightweight desktop application for contour detection, manual editing, and measurement on images. It uses OpenCV for image processing and Tkinter for GUI. Perfect for engineers, researchers, and hobbyists who need to quickly extract and analyze object boundaries from PCB photos, mechanical parts, or any contour-rich images.
 
-![Screenshot](screenshot.png) <!-- Replace with actual screenshot -->
-
 ---
 
 ## ✨ Key Features
@@ -60,11 +58,13 @@
 
 ```bash
 pip install opencv-python pillow numpy
-
 Run the Application
 bash
 python contour_analyzer.py
-💡 It is recommended to use a virtual environment.
+```
+
+** 💡 It is recommended to use a virtual environment. **
+
 
 ## 🎯 Typical Use Cases
 ###
